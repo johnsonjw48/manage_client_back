@@ -1,0 +1,11 @@
+2022/11/02-12:47:35.311 4f90 Reusing MANIFEST D:\Master TL\Lesly\test\tmp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/02-12:48:05.979 2898 Level-0 table #5: started
+2022/11/02-12:48:06.029 2898 Level-0 table #5: 1166358 bytes OK
+2022/11/02-12:48:06.033 2898 Delete type=0 #3
+2022/11/02-12:48:14.555 2898 Level-0 table #7: started
+2022/11/02-12:48:14.630 2898 Level-0 table #7: 1204117 bytes OK
+2022/11/02-12:48:14.651 2898 Delete type=0 #4
+2022/11/02-12:48:14.657 2898 Compacting 1@1 + 1@2 files
+2022/11/02-12:48:14.777 2898 Generated table #8@1: 18260 keys, 1354871 bytes
+2022/11/02-12:48:14.777 2898 Compacted 1@1 + 1@2 files => 1354871 bytes
+2022/11/02-12:48:14.786 2898 compacted to: files[ 0 0 1 0 0 0 0 ]
